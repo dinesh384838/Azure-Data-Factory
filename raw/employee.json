@@ -1,0 +1,177 @@
+[
+    {
+        "EmployeeID": 1,
+        "Name": "John Doe",
+        "Age": 28,
+        "Department": "HR",
+        "Salary": 55000
+    },
+    {
+        "EmployeeID": 2,
+        "Name": "Jane Smith",
+        "Age": 34,
+        "Department": "IT",
+        "Salary": 75000
+    },
+    {
+        "EmployeeID": 3,
+        "Name": "Robert Brown",
+        "Age": 45,
+        "Department": "Finance",
+        "Salary": 67000
+    },
+    {
+        "EmployeeID": 4,
+        "Name": "Emily Davis",
+        "Age": 30,
+        "Department": "Marketing",
+        "Salary": 60000
+    },
+    {
+        "EmployeeID": 5,
+        "Name": "Michael Wilson",
+        "Age": 40,
+        "Department": "HR",
+        "Salary": 58000
+    },
+    {
+        "EmployeeID": 6,
+        "Name": "Sarah Miller",
+        "Age": 25,
+        "Department": "IT",
+        "Salary": 68000
+    },
+    {
+        "EmployeeID": 7,
+        "Name": "David Anderson",
+        "Age": 38,
+        "Department": "Finance",
+        "Salary": 71000
+    },
+    {
+        "EmployeeID": 8,
+        "Name": "Sophia Taylor",
+        "Age": 29,
+        "Department": "Marketing",
+        "Salary": 64000
+    },
+    {
+        "EmployeeID": 9,
+        "Name": "James Moore",
+        "Age": 32,
+        "Department": "HR",
+        "Salary": 54000
+    },
+    {
+        "EmployeeID": 10,
+        "Name": "Olivia Jackson",
+        "Age": 26,
+        "Department": "IT",
+        "Salary": 73000
+    },
+    {
+        "EmployeeID": 11,
+        "Name": "Liam Harris",
+        "Age": 36,
+        "Department": "Finance",
+        "Salary": 66000
+    },
+    {
+        "EmployeeID": 12,
+        "Name": "Isabella Lee",
+        "Age": 31,
+        "Department": "Marketing",
+        "Salary": 62000
+    },
+    {
+        "EmployeeID": 13,
+        "Name": "Noah Clark",
+        "Age": 42,
+        "Department": "HR",
+        "Salary": 59000
+    },
+    {
+        "EmployeeID": 14,
+        "Name": "Mia Hall",
+        "Age": 27,
+        "Department": "IT",
+        "Salary": 70000
+    },
+    {
+        "EmployeeID": 15,
+        "Name": "William Allen",
+        "Age": 37,
+        "Department": "Finance",
+        "Salary": 68000
+    },
+    {
+        "EmployeeID": 16,
+        "Name": "Emma Young",
+        "Age": 33,
+        "Department": "Marketing",
+        "Salary": 63000
+    },
+    {
+        "EmployeeID": 17,
+        "Name": "Lucas King",
+        "Age": 44,
+        "Department": "HR",
+        "Salary": 56000
+    },
+    {
+        "EmployeeID": 18,
+        "Name": "Ava Scott",
+        "Age": 28,
+        "Department": "IT",
+        "Salary": 76000
+    },
+    {
+        "EmployeeID": 19,
+        "Name": "Benjamin Adams",
+        "Age": 39,
+        "Department": "Finance",
+        "Salary": 70000
+    },
+    {
+        "EmployeeID": 20,
+        "Name": "Charlotte Baker",
+        "Age": 29,
+        "Department": "Marketing",
+        "Salary": 61000
+    },
+    {
+        "EmployeeID": 21,
+        "Name": "Ethan Gonzalez",
+        "Age": 35,
+        "Department": "HR",
+        "Salary": 57000
+    },
+    {
+        "EmployeeID": 22,
+        "Name": "Amelia Carter",
+        "Age": 24,
+        "Department": "IT",
+        "Salary": 75000
+    },
+    {
+        "EmployeeID": 23,
+        "Name": "Alexander Turner",
+        "Age": 43,
+        "Department": "Finance",
+        "Salary": 72000
+    },
+    {
+        "EmployeeID": 24,
+        "Name": "Harper Phillips",
+        "Age": 30,
+        "Department": "Marketing",
+        "Salary": 65000
+    },
+    {
+        "EmployeeID": 25,
+        "Name": "Elijah Parker",
+        "Age": 29,
+        "Department": "HR",
+        "Salary": 53000
+    }
+]
